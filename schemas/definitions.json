@@ -631,7 +631,8 @@
 	      "fish",
 	      "hazard",
 	      "anchorage",
-	      "mark"
+	      "mark",
+              "other"
 	    ]
 	  }
 	}
